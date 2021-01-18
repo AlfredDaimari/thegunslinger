@@ -1,0 +1,1405 @@
+[
+  {
+    "_id": {
+      "$oid": "5f6daabe770ad82c447e0f58"
+    },
+    "buyerList": [],
+    "category": "outfits",
+    "description": "Should any other proof be required that we are the mercantile heart of America, gaze upon this splendid and unique outfit. The Feathered Flop Hat sets just the tone and perfectly accents the crocodile skin Hunter Jacket and Townsend Gloves, Everyday Overshirt, fur covered Rutledge Vest, snug Bandito Pants and Strickland Boots. Is today not the day that you cease to induce indifference and contempt in passers-by mortified at your fashion failures?",
+    "imgs": [
+      "/img/theajaccio1.png",
+      "/img/theajaccio2.jpg",
+      "/img/theajaccio3.jpg"
+    ],
+    "name": "The Ajaccio",
+    "price": 111,
+    "properties": {
+      "type_": "men",
+      "colour": ["black", "grey"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f6dacdb770ad82c447e0f5c"
+      },
+      {
+        "$oid": "5f6db0a1770ad82c447e0f65"
+      },
+      {
+        "$oid": "5f6dae6d770ad82c447e0f5f"
+      }
+    ],
+    "wishlistCounter": 2
+  },
+  {
+    "_id": {
+      "$oid": "5f6dab81770ad82c447e0f59"
+    },
+    "buyerList": [],
+    "category": "outfits",
+    "description": "This outfit is strictly new this season. The Wash Skirt and Opulent Vest are complimented with a Loose Collared Shirtwaist, Riding Gloves, Watonga Boots, and Short Stovepipe Top Hat. A great number of ladies recommend this outfit. Wanda S. Pruitt of North Carolina says, “So much is ephemeral in this life, however your style and bargains remain forever.”",
+    "imgs": [
+      "/img/thebreckenridge1.png",
+      "/img/thebreckenridge2.jpg",
+      "/img/thebreckenridge3.jpg"
+    ],
+    "name": "The Breckenridge",
+    "price": 225,
+    "properties": {
+      "type_": "ladies",
+      "colour": ["black", "red"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f6daee2770ad82c447e0f60"
+      },
+      {
+        "$oid": "5f6db0ee770ad82c447e0f66"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f6dabde770ad82c447e0f5a"
+    },
+    "buyerList": [],
+    "category": "outfits",
+    "description": "It is our absolute honor to present to you a top of the line offering in our new range. One of our clothiers drew inspiration for this outfit from a man he met out west, near the border with Mexico, who exclaimed he had solved life’s keen puzzle of living on the fringes of financial and moral turpitude. From the Cromwell Hat to the Austin Boots, French Dress Shirt, Shaffer Chaps and Durham Coat, the items in this ensemble are sure to surround you in an atmosphere of fawning adulation.",
+    "imgs": [
+      "/img/theclayton1.png",
+      "/img/theclayton2.jpg",
+      "/img/theclayton3.jpg"
+    ],
+    "name": "The Clayton",
+    "price": 90,
+    "properties": {
+      "type_": "men",
+      "colour": ["black", "grey"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f6daf4f770ad82c447e0f61"
+      },
+      {
+        "$oid": "5f6db140770ad82c447e0f67"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f6dac51770ad82c447e0f5b"
+    },
+    "buyerList": [],
+    "category": "outfits",
+    "description": "This superb combination is one that communicates your diligence, good breeding and irresistible comeliness. The silver conchos on the pants immediately draw the eye. The Diamondback Hat is pure beaver felt with rattlesnake accents. The Porter Jacket is buckskin with matching rattlesnake trimmings, perfectly partnering the Rutledge Vest, rabbit fur Arkwright Gloves, rattlesnake Weathered Half Chaps and Millard Boots. We have yet to hear complaint from anyone about this first rate outfit.",
+    "imgs": [
+      "/img/thedauphine1.png",
+      "/img/thedauphine2.jpg",
+      "/img/thedauphine3.jpg"
+    ],
+    "name": "The Dauphine",
+    "price": 175,
+    "properties": {
+      "type_": "ladies",
+      "colour": ["black", "white"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f6dafa8770ad82c447e0f62"
+      },
+      {
+        "$oid": "5f6db005770ad82c447e0f63"
+      },
+      {
+        "$oid": "5f6db04b770ad82c447e0f64"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f6dacdb770ad82c447e0f5c"
+    },
+    "buyerList": [],
+    "category": "outfits",
+    "description": "The demand the past two seasons for this outfit has been profound. The Shotgun Coat and Opulent Vest stand out. The French Dress Shirt wears comfortably. The Tuxedo Pants do not pinch. The Riding Gloves perfectly match the Preacher’s Boots, and it all comes together with the Puff Tie and Short Stovepipe Top Hat. You would no more switch out any of these items than you would observe a cat playing a harpsichord. It simply would never transpire.",
+    "imgs": [
+      "/img/thedechaux1.png",
+      "/img/thedechaux2.jpg",
+      "/img/thedechaux3.jpg"
+    ],
+    "name": "The Dechaux",
+    "price": 265,
+    "properties": {
+      "type_": "men",
+      "colour": ["brown", "red"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f6daabe770ad82c447e0f58"
+      },
+      {
+        "$oid": "5f6db0a1770ad82c447e0f65"
+      },
+      {
+        "$oid": "5f6dae6d770ad82c447e0f5f"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f6dad3f770ad82c447e0f5d"
+    },
+    "buyerList": [],
+    "category": "outfits",
+    "description": "Our outfit honors the outlaw spirit of The Grizzlies and is suitable for traversing wild gorges, cascades, boulder strewn bluffs, crevasses, avalanches, and fighting frostbite. Complete with Whitfield Pants, French Dress Shirt, Legion Vest, Plated Relentless Boots, Vaquero Riding Spurs, and Montana Coat, it is finished with a Grizzlies Gun Belt and Hat. Only upon acquiring this noble outfit, and fighting alone through Mother Nature’s daily attempt to snuff out your light, will true happiness set in.",
+    "imgs": [
+      "/img/thegrizzliesoutlaw1.png",
+      "/img/thegrizzliesoutlaw2.jpg",
+      "/img/thegrizzliesoutlaw3.jpg"
+    ],
+    "name": "The Grizzlies Outlaw",
+    "price": 120,
+    "properties": {
+      "type_": "ladies",
+      "colour": ["brown", "red"]
+    },
+    "similarProducts": [],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f6dae02770ad82c447e0f5e"
+    },
+    "buyerList": [],
+    "category": "outfits",
+    "description": "Our outfit honors the outlaw spirit of The Grizzlies and is suitable for traversing wild gorges, cascades, boulder strewn bluffs, crevasses, avalanches, and fighting frostbite. Complete with Whitfield Pants, French Dress Shirt, Legion Vest, Plated Relentless Boots, Vaquero Riding Spurs, and Montana Coat, it is finished with a Grizzlies Gun Belt and Hat. Only upon acquiring this noble outfit, and fighting alone through Mother Nature’s daily attempt to snuff out your light, will true happiness set in.",
+    "imgs": [
+      "/img/thegrizzliesoutlawm1.png",
+      "/img/thegrizzliesoutlawm2.jpg",
+      "/img/thegrizzliesoutlawm3.jpg"
+    ],
+    "name": "The Grizzlies Outlaw",
+    "price": 120,
+    "properties": {
+      "type_": "men",
+      "colour": ["brown", "red"]
+    },
+    "similarProducts": [],
+    "wishlistCounter": 1
+  },
+  {
+    "_id": {
+      "$oid": "5f6dae6d770ad82c447e0f5f"
+    },
+    "buyerList": [],
+    "category": "outfits",
+    "description": "Men gazing upon these pages will be drawn to the way this magnificent outfit adheres to all of the eternal laws of costume. The Worsted Coat, Paisley Vest, Everyday Shirt, Straw Boater Hat, Tuxedo Pants, and Shoes are perfectly matched. One of the most dapper outfits on offer, it is to be worn by a gentleman fond of literature and painting. Order now.",
+    "imgs": [
+      "/img/thehettinger1.png",
+      "/img/thehettinger2.jpg",
+      "/img/thehettinger3.jpg"
+    ],
+    "name": "The Hettinger",
+    "price": 160,
+    "properties": {
+      "type_": "men",
+      "colour": ["white", "red"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f6daabe770ad82c447e0f58"
+      },
+      {
+        "$oid": "5f6dacdb770ad82c447e0f5c"
+      },
+      {
+        "$oid": "5f6db0a1770ad82c447e0f65"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f6daee2770ad82c447e0f60"
+    },
+    "buyerList": [],
+    "category": "outfits",
+    "description": "An elegant ensemble for the pastoral professional, this outfit will delight in form and function. The Prairie Skirt is the centerpiece, with Frill Shirtwaist, Straw Boater Hat, and MacMillan Buttoned Boots. It is one of the finest outfits on offer. This outfit is truly unmatched and of great charm and popularity, and suits you perfectly. Advance your station and order today.",
+    "imgs": [
+      "/img/thekimberly1.png",
+      "/img/thekimberly2.jpg",
+      "/img/thekimberly3.jpg"
+    ],
+    "name": "The Kimberly",
+    "price": 85,
+    "properties": {
+      "type_": "ladies",
+      "colour": ["blue", "yellow", "white"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f6dab81770ad82c447e0f59"
+      },
+      {
+        "$oid": "5f6db0ee770ad82c447e0f66"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f6daf4f770ad82c447e0f61"
+    },
+    "buyerList": [],
+    "category": "outfits",
+    "description": "We call your attention to this stylish outfit, for here are the fittings suitable for a dapper nomad who earns respect. The Double Breasted Lapelled Vest, Cuffed Town Pants, Side Collar Shirt, and Sportsman’s Boots are completed with a Western Homburg Hat. It is an ensemble at home entertaining in parlors or on the wilds of the prairie. We have had great success with this outfit.",
+    "imgs": [
+      "/img/themercer1.png",
+      "/img/themercer2.jpg",
+      "/img/themercer3.jpg"
+    ],
+    "name": "The Mercer",
+    "price": 50,
+    "properties": {
+      "type_": "men",
+      "colour": ["brown", "black", "green"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f6db140770ad82c447e0f67"
+      },
+      {
+        "$oid": "5f6dabde770ad82c447e0f5a"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f6dafa8770ad82c447e0f62"
+    },
+    "buyerList": [],
+    "category": "outfits",
+    "description": "We present to you one of the finest outfits ever offered in the history of catalogue commerce. The hand painted Calhoun Boots perfectly match the Cinched Jacket, Flora Corseted Chemise, Lightfoot Pants and Descoteaux Hat. Should you pass this offer by, it will surely haunt your imagination. For why deny yourself finery? The futility of such a question beguiles the triumphs and tribulations you might enjoy while roaming through the enigma that is life.",
+    "imgs": [
+      "/img/thequinton1.png",
+      "/img/thequinton2.jpg",
+      "/img/thequinton3.jpg"
+    ],
+    "name": "The Quinton",
+    "price": 290,
+    "properties": {
+      "type_": "ladies",
+      "colour": ["yellow", "red"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f6dac51770ad82c447e0f5b"
+      },
+      {
+        "$oid": "5f6db005770ad82c447e0f63"
+      },
+      {
+        "$oid": "5f6db04b770ad82c447e0f64"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f6db005770ad82c447e0f63"
+    },
+    "buyerList": [
+      {
+        "_id": {
+          "$oid": "5fad5f5f22ecb2765ad56cb3"
+        }
+      }
+    ],
+    "category": "outfits",
+    "description": "The heritage of this inimitable outfit commenced from a resplendent resident who chose to dispose of household items by shooting them at considerable distance while imbibing strong libations. Modeled in her honor, the Clymene Coat and Guildtown Skirt are perfectly matched with the Bellerose Hat, Citadel Boots, Estelle Shirtwaist and Riding Gloves. If you happen upon someone who needs to order a new outfit from this catalogue, do not hold your tongue.",
+    "imgs": [
+      "/img/theredington1.png",
+      "/img/theredington2.jpg",
+      "/img/theredington3.jpg"
+    ],
+    "name": "The Redington",
+    "price": 120,
+    "properties": {
+      "type_": "ladies",
+      "colour": ["blue", "yellow"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f6dac51770ad82c447e0f5b"
+      },
+      {
+        "$oid": "5f6dafa8770ad82c447e0f62"
+      },
+      {
+        "$oid": "5f6db04b770ad82c447e0f64"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f6db04b770ad82c447e0f64"
+    },
+    "buyerList": [],
+    "category": "outfits",
+    "description": "For this season we offer a great bargain in ladies’ tailor made suits cut on the very latest style patterns. This includes a Double Breasted Lapelled Vest, Casual Shirtwaist, Cuffed Town Pants, Sportsman’s Boots, and Western Homburg Hat. Nothing reveals the essence of one’s character so much as the manner in which she dresses. Never sully your integrity by purchasing anywhere but from the fine purveyors of ladies’ fashion, Wheeler and Rawson.",
+    "imgs": [
+      "/img/theroanoke1.png",
+      "/img/theroanoke2.jpg",
+      "/img/theroanoke3.jpg"
+    ],
+    "name": "The Roanoke",
+    "price": 80,
+    "properties": {
+      "type_": "ladies",
+      "colour": ["black", "brown", "green"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f6dac51770ad82c447e0f5b"
+      },
+      {
+        "$oid": "5f6dafa8770ad82c447e0f62"
+      },
+      {
+        "$oid": "5f6db005770ad82c447e0f63"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f6db0a1770ad82c447e0f65"
+    },
+    "buyerList": [],
+    "category": "outfits",
+    "description": "Please, dear reader, take pause for a moment and cast your gaze over the splendor of this bespoke outfit. The Classic Frock Coat, Paisley Vest, Everyday Shirt, Preacher’s Pride Boots, and Drifter Hat perfectly complement one another. An outfit for the delights of evening entertainment, it is surely an ensemble that will rouse curiosity of the wearer as he walks into a tavern.",
+    "imgs": [
+      "/img/thescheffield1.png",
+      "/img/thescheffield2.jpg",
+      "/img/thescheffield3.jpg"
+    ],
+    "name": "The Scheffield",
+    "price": 45,
+    "properties": {
+      "type_": "men",
+      "colour": ["blue", "grey", "green"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f6daabe770ad82c447e0f58"
+      },
+      {
+        "$oid": "5f6dacdb770ad82c447e0f5c"
+      },
+      {
+        "$oid": "5f6dae6d770ad82c447e0f5f"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f6db0ee770ad82c447e0f66"
+    },
+    "buyerList": [],
+    "category": "outfits",
+    "description": "This extra fine quality outfit is made up in the latest style and is strictly up-to-date. Comprised of a Classic Frock Coat, Paisley Vest, Wide Collar Shirtwaist, Preacher’s Pride Boots, and Drifter Hat, it will surely be the finest ensemble in your wardrobe. This is the outfit of a woman with a piquant wit, who exhibits clarity of judgement, is capable and self-possessed.",
+    "imgs": [
+      "/img/thesummerfield1.png",
+      "/img/thesummerfield2.jpg",
+      "/img/thesummerfield3.jpg"
+    ],
+    "name": "The Summerfield",
+    "price": 200,
+    "properties": {
+      "type_": "ladies",
+      "colour": ["blue", "grey", "brown"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f6dab81770ad82c447e0f59"
+      },
+      {
+        "$oid": "5f6daee2770ad82c447e0f60"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f6db140770ad82c447e0f67"
+    },
+    "buyerList": [],
+    "category": "outfits",
+    "description": "It has come to our attention that so many clothe themselves in garments that are, in truth, ill adapted for any purpose other than loutishly doting about, nerves in ribbons, obsequious and anemic, like a banker or someone from Britain. Why live on the fragments of society when you can don the apparel of those who have already solved life’s mysteries? We present to you The Zacateca with luxurious Chuparosa Poncho, Everyday Shirt, Gibbston pants, Riding Gloves and Blackburn Boots.",
+    "imgs": [
+      "/img/thezacateca1.png",
+      "/img/thezacateca2.jpg",
+      "/img/thezacateca3.jpg"
+    ],
+    "name": "The Zacateca",
+    "price": 80,
+    "properties": {
+      "type_": "men",
+      "colour": ["white", "brown"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f6dabde770ad82c447e0f5a"
+      },
+      {
+        "$oid": "5f6daf4f770ad82c447e0f61"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f7609c4134f3b1eb8c35e84"
+    },
+    "buyerList": [],
+    "category": "guns",
+    "description": "Look downrange through the sights. Feel the gun stock. Friend, there is no better Bolt Action Rifle in any store or outfitter available than the B.D & Co. Rest assured that it will not hesitate to fill the recipient full of equal amounts of lead and dread.",
+    "imgs": [
+      "/img/boltactionrifle1.png",
+      "/img/boltactionrifle2.jpg",
+      "/img/boltactionrifle3.jpg"
+    ],
+    "name": "Bolt Action Rifle",
+    "price": 275,
+    "properties": {
+      "type_": "rifle",
+      "colour": ["black"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f760ab0134f3b1eb8c35e85"
+      },
+      {
+        "$oid": "5f7610a0134f3b1eb8c35e91"
+      },
+      {
+        "$oid": "5f760bda134f3b1eb8c35e87"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f760ab0134f3b1eb8c35e85"
+    },
+    "buyerList": [],
+    "category": "guns",
+    "description": "It has been said that discretion is the better part of valor, and no more valor is exhibited than that of a man hiding behind a rock and taking out his enemies when they least suspect it. You can find no better rifle than the Carcano Rifle.",
+    "imgs": [
+      "/img/carcanorifle1.png",
+      "/img/carcanorifle2.jpg",
+      "/img/carcanorifle3.jpg"
+    ],
+    "name": "Carcano Rifle",
+    "price": 145,
+    "properties": {
+      "type_": "rifle",
+      "colour": ["black"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f7609c4134f3b1eb8c35e84"
+      },
+      {
+        "$oid": "5f760bda134f3b1eb8c35e87"
+      },
+      {
+        "$oid": "5f7610a0134f3b1eb8c35e91"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f760b86134f3b1eb8c35e86"
+    },
+    "buyerList": [],
+    "category": "guns",
+    "description": "There is no better revolver to have at your side when heading west into the land of milk and honey. Fan the hammer in quick succession and you will see how quickly this revolver can be unloaded to the dismayed surprise of others.",
+    "imgs": [
+      "/img/cattlemanrevolver1.png",
+      "/img/cattlemanrevolver2.jpg",
+      "/img/cattlemanrevolver3.jpg"
+    ],
+    "name": "Cattleman Revolver",
+    "price": 45,
+    "properties": {
+      "type_": "revolver",
+      "colour": ["black"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f760e8c134f3b1eb8c35e8d"
+      },
+      {
+        "$oid": "5f760cb1134f3b1eb8c35e8a"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f760bda134f3b1eb8c35e87"
+    },
+    "buyerList": [],
+    "category": "guns",
+    "description": "The Elephant Gun Rifle from Mühlberg is a marvel of manufacturing and has been likened to holding a cannon. Fire it and see if you are still standing or able to hear anything other than ringing for several days.",
+    "imgs": [
+      "/img/elephantrifle1.png",
+      "/img/elephantrifle2.jpg",
+      "/img/elephantrifle3.jpg"
+    ],
+    "name": "Elephant Rifle",
+    "price": 185,
+    "properties": {
+      "type_": "rifle",
+      "colour": ["brown"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f7610a0134f3b1eb8c35e91"
+      },
+      {
+        "$oid": "5f760ab0134f3b1eb8c35e85"
+      },
+      {
+        "$oid": "5f7609c4134f3b1eb8c35e84"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f760c16134f3b1eb8c35e88"
+    },
+    "buyerList": [],
+    "category": "guns",
+    "description": "The new and improved Evans Repeater is the highest grade repeating rifle ever turned out by B.D. and Co. It is well known that this fine mechanized firearm requires little academic aptitude. Simply shout a sobriquet, pull the trigger and repeat.",
+    "imgs": [
+      "/img/evansrepeater1.png",
+      "/img/evansrepeater2.jpg",
+      "/img/evansrepeater3.jpg"
+    ],
+    "name": "Evans Repeater",
+    "price": 205,
+    "properties": {
+      "type_": "repeater",
+      "colour": ["black"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f760c73134f3b1eb8c35e89"
+      },
+      {
+        "$oid": "5f760d30134f3b1eb8c35e8b"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f760c73134f3b1eb8c35e89"
+    },
+    "buyerList": [],
+    "category": "guns",
+    "description": "The gun that won both the West and South from ne’er-do-wells. We have received letters from thousands of satisfied purchasers who say that the superior firepower of the Lancaster is satisfactory in every way.",
+    "imgs": [
+      "/img/lancasterrepeater1.png",
+      "/img/lancasterrepeater2.jpg",
+      "/img/lancasterrepeater3.jpg"
+    ],
+    "name": "Lancaster Repeater",
+    "price": 165,
+    "properties": {
+      "type_": "repeater",
+      "colour": ["black"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f760c16134f3b1eb8c35e88"
+      },
+      {
+        "$oid": "5f760d30134f3b1eb8c35e8b"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f760cb1134f3b1eb8c35e8a"
+    },
+    "buyerList": [],
+    "category": "guns",
+    "description": "This unique revolver, with its second barrel for buck shot, is so strong and so perfect in manufacture, we have yet to record one that has become shaky or loose. Fire fifty thousand rounds with flawless accuracy and you will see. The Lemat Revolver is the short range winner.",
+    "imgs": [
+      "/img/lematrevolver1.png",
+      "/img/lematrevolver2.jpg",
+      "/img/lematrevolver3.jpg"
+    ],
+    "name": "Lemat Revolver",
+    "price": 190,
+    "properties": {
+      "type_": "revolver",
+      "colour": ["black"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f760e8c134f3b1eb8c35e8d"
+      },
+      {
+        "$oid": "5f760b86134f3b1eb8c35e86"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f760d30134f3b1eb8c35e8b"
+    },
+    "buyerList": [
+      {
+        "_id": {
+          "$oid": "5f91d37ef25c2756f2d5074c"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "5fad5f5f22ecb2765ad56cb3"
+        }
+      }
+    ],
+    "category": "guns",
+    "description": "Imagine a rifle that you could spend hours lovingly cleaning on a Sunday afternoon, then load with cartridges and shoot all week long without having to reload. It is relief from this kind of worry that allows a man to put his mind to larger tasks like understanding the meaning of the universe.",
+    "imgs": [
+      "/img/litchfieldrepeater1.png",
+      "/img/litchfieldrepeater2.jpg",
+      "/img/litchfieldrepeater3.jpg"
+    ],
+    "name": "Litchfield Repeater",
+    "price": 230,
+    "properties": {
+      "type_": "repeater",
+      "colour": ["black"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f760c73134f3b1eb8c35e89"
+      },
+      {
+        "$oid": "5f760c16134f3b1eb8c35e88"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f760d72134f3b1eb8c35e8c"
+    },
+    "buyerList": [],
+    "category": "guns",
+    "description": "THE FINEST SELF LOADING “AUTOMATIC” PISTOL. It has the dandiest of designs, having originated from a couple of passionate brothers in Europe who have spent their life’s work fashioning ingenious ways to propel lead at high rates of speed.",
+    "imgs": [
+      "/img/mauserpistol1.png",
+      "/img/mauserpistol2.jpg",
+      "/img/mauserpistol3.jpg"
+    ],
+    "name": "Mauser Pistol",
+    "price": 100,
+    "properties": {
+      "type_": "pistol",
+      "colour": ["black"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f7610d3134f3b1eb8c35e92"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f760e8c134f3b1eb8c35e8d"
+    },
+    "buyerList": [],
+    "category": "guns",
+    "description": "BEHOLD THIS .36 CALIBER SINGLE ACTION REVOLVER capable of sending a ball of hot lead at an astounding velocity of 1,000 feet per second. There exists no mammal nor revenue agent capable of outrunning its mortiferous efficacy, and we encourage you to prove otherwise.",
+    "imgs": [
+      "/img/navyrevolver1.png",
+      "/img/navyrevolver2.jpg",
+      "/img/navyrevolver3.jpg"
+    ],
+    "name": "Navy Revolver",
+    "price": 115,
+    "properties": {
+      "type_": "revolver",
+      "colour": ["black"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f760cb1134f3b1eb8c35e8a"
+      },
+      {
+        "$oid": "5f760b86134f3b1eb8c35e86"
+      }
+    ],
+    "wishlistCounter": 1
+  },
+  {
+    "_id": {
+      "$oid": "5f760f33134f3b1eb8c35e8e"
+    },
+    "buyerList": [
+      {
+        "_id": {
+          "$oid": "5fad868d22ecb2765ad56cc5"
+        }
+      }
+    ],
+    "category": "guns",
+    "description": "For the man who has more tongue than sense, the mere sound of the Lancaster Pump-Action Shotgun loading a shell into the chamber should have him shut his mouth right quick. We think the new Lancaster design makes this the finest pump-action shotgun available on the market today.",
+    "imgs": [
+      "/img/pumpactionshotgun1.png",
+      "/img/pumpactionshotgun2.jpg",
+      "/img/pumpactionshotgun3.jpg"
+    ],
+    "name": "Pump Action Shotgun ",
+    "price": 210,
+    "properties": {
+      "type_": "shotgun",
+      "colour": ["black"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f761109134f3b1eb8c35e93"
+      },
+      {
+        "$oid": "5f761027134f3b1eb8c35e90"
+      },
+      {
+        "$oid": "5f760f65134f3b1eb8c35e8f"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f760f65134f3b1eb8c35e8f"
+    },
+    "buyerList": [],
+    "category": "guns",
+    "description": "Handcrafted, elegantly designed, unique in every way, it will soon become your most cherished possession after the Good Book and faithful dog. Surely those on the business end of it will blush and stammer at the honor of being threatened with such a masterpiece of artistry.",
+    "imgs": [
+      "/img/rareshotgun1.png",
+      "/img/rareshotgun2.jpg",
+      "/img/rareshotgun3.jpg"
+    ],
+    "name": "Rare Shotgun",
+    "price": 275,
+    "properties": {
+      "type_": "shotgun",
+      "colour": ["black"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f761027134f3b1eb8c35e90"
+      },
+      {
+        "$oid": "5f761109134f3b1eb8c35e93"
+      },
+      {
+        "$oid": "5f760f33134f3b1eb8c35e8e"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f761027134f3b1eb8c35e90"
+    },
+    "buyerList": [],
+    "category": "guns",
+    "description": "AN UNRIVALED MARVEL OF POWER. This Lancaster Repeating Shotgun is nationally recognized as the strongest shooter in the market. You will barely feel it in your hands until it goes off, and then, Lord Almighty, you will say prayers to God first and Lancaster soon after. FIRE THIS GUN 10,000 TIMES AND SEE.",
+    "imgs": [
+      "/img/repeatingshotgun1.png",
+      "/img/repeatingshotgun2.jpg",
+      "/img/repeatingshotgun3.jpg"
+    ],
+    "name": "Repeating Shotgun",
+    "price": 215,
+    "properties": {
+      "type_": "shotgun",
+      "colour": ["black"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f760f65134f3b1eb8c35e8f"
+      },
+      {
+        "$oid": "5f761109134f3b1eb8c35e93"
+      },
+      {
+        "$oid": "5f760f33134f3b1eb8c35e8e"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f7610a0134f3b1eb8c35e91"
+    },
+    "buyerList": [],
+    "category": "guns",
+    "description": "Do you enjoy sharpshooting? For those that believe close quarters combat is for the foolhardy and indeed short lived, then the Litchfield Rolling Block Rifle is a wonder to behold. IT IS A COURAGEOUS MAN WHO SHOOTS FROM AFAR. It is a coward who drops a man from merely feet away.",
+    "imgs": [
+      "/img/rollingblockrifle1.png",
+      "/img/rollingblockrifle2.jpg",
+      "/img/rollingblockrifle3.jpg"
+    ],
+    "name": "Rolling Block Rifle",
+    "price": 280,
+    "properties": {
+      "type_": "rifle",
+      "colour": ["black"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f760bda134f3b1eb8c35e87"
+      },
+      {
+        "$oid": "5f760ab0134f3b1eb8c35e85"
+      },
+      {
+        "$oid": "5f7609c4134f3b1eb8c35e84"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f7610d3134f3b1eb8c35e92"
+    },
+    "buyerList": [],
+    "category": "guns",
+    "description": "This is strictly a high grade gun meant for solving situations in a rapid fire manner. Too much cannot be said for the shooting qualities of this wonderful pistol. Fire one round and you will see – the recoil of this fine weapon is a testament to its power.",
+    "imgs": [
+      "/img/semiautomaticpistol1.png",
+      "/img/semiautomaticpistol2.jpg",
+      "/img/semiautomaticpistol3.jpg"
+    ],
+    "name": "Semi Automatic Pistol",
+    "price": 125,
+    "properties": {
+      "type_": "pistol",
+      "colour": ["black"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f760d72134f3b1eb8c35e8c"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f761109134f3b1eb8c35e93"
+    },
+    "buyerList": [],
+    "category": "guns",
+    "description": "UNSURPASSED PENETRATION AGAIN AND AGAIN. The Brun et Fabre Semi-Automatic Shotgun is the highest grade, the most perfect and best priced semi-auto shotgun made in the world. One of the most attractive fancy firearms on the market ",
+    "imgs": [
+      "/img/semiautoshotgun1.png",
+      "/img/semiautoshotgun2.jpg",
+      "/img/semiautoshotgun3.jpg"
+    ],
+    "name": "Semi Auto Shotgun",
+    "price": 200,
+    "properties": {
+      "type_": "shotgun",
+      "colour": ["black"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f760f33134f3b1eb8c35e8e"
+      },
+      {
+        "$oid": "5f761027134f3b1eb8c35e90"
+      },
+      {
+        "$oid": "5f760f65134f3b1eb8c35e8f"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f7612338eabb9845827394b"
+    },
+    "buyerList": [],
+    "category": "horses",
+    "description": "American Standardbreds are fine jumpers and exhibit a calm, bold, intelligent temperament. Highly sought after for their speed and placid disposition, they are known for their strong, dense bones and ability to maintain high trotting speeds. Their bodies are long, their withers well defined, and their legs solid and refined. This is a horse that is very people-oriented.",
+    "imgs": [
+      "/img/americanstandardbred1.png",
+      "/img/americanstandardbred2.jpg",
+      "/img/americanstandardbred3.jpg"
+    ],
+    "name": "American Standardbred",
+    "price": 90,
+    "properties": {
+      "type_": "race horse",
+      "colour": ["black", "buckskin"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f7625c38eabb98458273959"
+      },
+      {
+        "$oid": "5f761ad98eabb98458273955"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f7612df8eabb9845827394c"
+    },
+    "buyerList": [],
+    "category": "horses",
+    "description": "Prized in Spain for their use in bull fights, they are an agile, healthy, elegant and intelligent breed. The Andalusian has a reputation as an incredible athlete exhibiting a sixth sense around livestock, moving with amazing speed. They are strong yet compact, with long thick tails and manes. Their intelligence can be astonishing at times, which is why they have been a favorite breed among nobility.",
+    "imgs": [
+      "/img/andalusian1.png",
+      "/img/andalusian2.jpg",
+      "/img/andalusian3.jpg"
+    ],
+    "name": "Andalusian",
+    "price": 220,
+    "properties": {
+      "type_": "war horse",
+      "colour": ["dark bay", "rose grey"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f7617a48eabb98458273952"
+      },
+      {
+        "$oid": "5f7615458eabb9845827394f"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f7614218eabb9845827394d"
+    },
+    "buyerList": [],
+    "category": "horses",
+    "description": "The Appaloosa is a hardy and willing horse with great endurance. They have strong legs, a short thin mane, and hard striped feet. The bloodline runs back many centuries with the characteristic coat pattern seen among cave drawings. Suitable for many kinds of equestrian activity, they are at home on any farm, and are the preferred breed among many workers.",
+    "imgs": [
+      "/img/appaloosa1.png",
+      "/img/appaloosa2.jpg",
+      "/img/appaloosa3.jpg"
+    ],
+    "name": "Appaloosa",
+    "price": 130,
+    "properties": {
+      "type_": "work horse",
+      "colour": ["blanket", "leopard"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f8c7a3c9cd2ca560bb9225d"
+      },
+      {
+        "$oid": "5f8c79c4e2dd1d03a4a56cff"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f7614b98eabb9845827394e"
+    },
+    "buyerList": [
+      {
+        "_id": {
+          "$oid": "5f91d7789c1d4458dedf8501"
+        }
+      }
+    ],
+    "category": "horses",
+    "description": "Arabian horses have very good temperaments, are alert and eager to please. They are fast, quick to learn, and have a willingness for training, though they will not tolerate abuse. Good-natured, they form a tight bond with humans. Whether used for racing, war, or work, they are superior in fitness, strength and agility and exhibit a high amount of grit. This is the finest horse a man could own.",
+    "imgs": ["/img/arabian1.png", "/img/arabian2.jpg", "/img/arabian3.jpg"],
+    "name": "Arabian",
+    "price": 295,
+    "properties": {
+      "type_": "superior horse",
+      "colour": ["black", "chestnut"]
+    },
+    "similarProducts": [],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f7615458eabb9845827394f"
+    },
+    "buyerList": [],
+    "category": "horses",
+    "description": "A cold-blooded breed, Ardennes have a fantastic temperament and are prized for their ability to not become agitated. The Ardennes have massive bone structure and large muscles. While not very agile, their strength in combat is highly sought after. They are healthy, sturdy, rustic, hard and tireless; a favorite in our line of war horses.",
+    "imgs": ["/img/ardennes1.png", "/img/ardennes2.jpg", "/img/ardennes3.jpg"],
+    "name": "Ardennes",
+    "price": 200,
+    "properties": {
+      "type_": "war horse",
+      "colour": ["silver grey", "light brown"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f7612df8eabb9845827394c"
+      },
+      {
+        "$oid": "5f7617a48eabb98458273952"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f7615dc8eabb98458273950"
+    },
+    "buyerList": [],
+    "category": "horses",
+    "description": "A magnificent breed ready for work, they are powerful, heavy, and able to pull massive amounts of weight. While excellent working animals, they are also suitable for riding. Easy to keep, docile and willing, they have a very amiable disposition. Our line of Draft Horses is complete and you can do no better than acquiring one of these magnificent animals.",
+    "imgs": ["/img/belgian1.png", "/img/belgian2.jpg", "/img/belgian3.jpg"],
+    "name": "Belgian",
+    "price": 100,
+    "properties": {
+      "type_": "draft horse",
+      "colour": ["chestnut", "blonde chestnut"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f761c748eabb98458273957"
+      },
+      {
+        "$oid": "5f761b8a8eabb98458273956"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f7616c38eabb98458273951"
+    },
+    "buyerList": [
+      {
+        "_id": {
+          "$oid": "5f91db6f0f45775abdaa2faa"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "5f91d37ef25c2756f2d5074c"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "5ffc53f5348dee0b0cb49a01"
+        }
+      }
+    ],
+    "category": "horses",
+    "description": "The finest breed in our line of work horses, the Dutch Warmblood is highly suited to farm and light draught work. They perform well in competition and exhibit an even temper and courageous spirit. Trainable and handsome, they are agile, active, and take to instruction. We recently received a number of these horses from one of the finest breeders in the country.",
+    "imgs": [
+      "/img/dutchwarmblood1.png",
+      "/img/dutchwarmblood2.jpg",
+      "/img/dutchwarmblood3.jpg"
+    ],
+    "name": "Dutch Warmblood",
+    "price": 150,
+    "properties": {
+      "type_": "work horse",
+      "colour": ["silver grey", "black"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f7614218eabb9845827394d"
+      },
+      {
+        "$oid": "5f8c79c4e2dd1d03a4a56cff"
+      }
+    ],
+    "wishlistCounter": 1
+  },
+  {
+    "_id": {
+      "$oid": "5f7617a48eabb98458273952"
+    },
+    "buyerList": [],
+    "category": "horses",
+    "description": "Originally bred for competition, the Hungarian Halfbred exhibits strength and stamina prized by many. Fine for sports or on the battlefield, they are quiet and eager to learn, alert and attentive. Their withers are well defined, the head alert, the limbs strong and muscular, and the hindquarters rounded and powerful. The Hungarian Halfbred is a quality war horse with a high level of strength.",
+    "imgs": [
+      "/img/hungarianhalfbred1.png",
+      "/img/hungarianhalfbred2.jpg",
+      "/img/hungarianhalfbred3.jpg"
+    ],
+    "name": "Hungarian Halfbred",
+    "price": 215,
+    "properties": {
+      "type_": "war horse",
+      "colour": ["dapple dark grey", "flaxen chestnut"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f7612df8eabb9845827394c"
+      },
+      {
+        "$oid": "5f7615458eabb9845827394f"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f7618538eabb98458273953"
+    },
+    "buyerList": [],
+    "category": "horses",
+    "description": "The Missouri Fox Trotter is a gaited breed especially suited to working with livestock. However, their muscular build makes them suitable for ranch work, trail riding, and racing. With a graceful carriage, they are relaxed and exhibit poise but have lightning fast speed and acceleration when needed. This is a fantastic horse worth twice the price.",
+    "imgs": [
+      "/img/missourifoxtrotter1.png",
+      "/img/missourifoxtrotter2.jpg",
+      "/img/missourifoxtrotter3.jpg"
+    ],
+    "name": "Missouri Fox Trotter",
+    "price": 260,
+    "properties": {
+      "type_": "multi-class",
+      "colour": ["brown", "silver grey"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f7619548eabb98458273954"
+      },
+      {
+        "$oid": "5f7626638eabb9845827395a"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f7619548eabb98458273954"
+    },
+    "buyerList": [],
+    "category": "horses",
+    "description": "The wild free roaming horse of the plains, the Mustang is a classic of the Old West. They are healthy with high stamina, surefooted, and suitable for work or war. With a low-set tail and round, dense hooves, they are very durable and, while difficult to break, are extremely loyal when forming a bond with a rider.",
+    "imgs": ["/img/mustang1.png", "/img/mustang2.jpg", "/img/mustang3.jpg"],
+    "name": "Mustang",
+    "price": 175,
+    "properties": {
+      "type_": "multi-class",
+      "colour": ["grey", "brown"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f7618538eabb98458273953"
+      },
+      {
+        "$oid": "5f7626638eabb9845827395a"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f761ad98eabb98458273955"
+    },
+    "buyerList": [],
+    "category": "horses",
+    "description": "Nokotas are warm-blooded equines, though they exhibit the quickness and agility of hot-blooded animals. They have a neck and back that is thick with muscle, prominent withers, thick winter coat and a low set tail. Fast, playful and observant, Nokotas are prized endurance and trail horses with a unique bloodline worthy of attention.",
+    "imgs": ["/img/nokota1.png", "/img/nokota2.jpg", "/img/nokota3.jpg"],
+    "name": "Nokota",
+    "price": 75,
+    "properties": {
+      "type_": "race horse",
+      "colour": ["silver blue", "grey"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f7625c38eabb98458273959"
+      },
+      {
+        "$oid": "5f7612338eabb9845827394b"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f761b8a8eabb98458273956"
+    },
+    "buyerList": [],
+    "category": "horses",
+    "description": "Their immense size has made Shire horses a favorite throughout the ages. They are calm with an even temperament, a characteristic that is required for an animal pulling a cart full of valuable goods. They have a slightly Roman nose, well-muscled hindquarters and a long neck that is set high, and are a great replacement for oxen on farms. With a sturdy and strong nature, they are the healthiest in our line.",
+    "imgs": ["/img/shire1.png", "/img/shire2.jpg", "/img/shire3.jpg"],
+    "name": "Shire",
+    "price": 100,
+    "properties": {
+      "type_": "draft horse",
+      "colour": ["raven black", "light grey"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f7615dc8eabb98458273950"
+      },
+      {
+        "$oid": "5f761c748eabb98458273957"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f761c748eabb98458273957"
+    },
+    "buyerList": [],
+    "category": "horses",
+    "description": "Suffolk Punch horses possess a willingness to work and have a great deal of determination to press on and complete tasks that need to be completed. Surrounded by strong muscle, the breed is known to be intelligent with a neck that is powerful and arching. With short, stocky legs that sometimes appear too short for their large body, the Suffolk Punch has hooves that are sound and well formed.",
+    "imgs": [
+      "/img/suffolkpunch1.png",
+      "/img/suffolkpunch2.jpg",
+      "/img/suffolkpunch3.jpg"
+    ],
+    "name": "Suffolk Punch",
+    "price": 110,
+    "properties": {
+      "type_": "draft horse",
+      "colour": ["red chestnut", "sorrel"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f761b8a8eabb98458273956"
+      },
+      {
+        "$oid": "5f7615dc8eabb98458273950"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f76251e8eabb98458273958"
+    },
+    "buyerList": [],
+    "category": "horses",
+    "description": "With their calm temperament, smooth ride and swift companionship, the Tennessee Walker is quickly becoming a favorite since it first appeared at horse auctions a few years ago. The breed is tall, with a long neck and sloping, long hips and shoulders. It has a smooth, unique gait and is sure-footed. They are popular for pleasure riding or light work on farms.",
+    "imgs": [
+      "/img/tennesseewalker1.png",
+      "/img/tennesseewalker2.jpg",
+      "/img/tennesseewalker3.jpg"
+    ],
+    "name": "Tennessee Walker",
+    "price": 210,
+    "properties": {
+      "type_": "riding horse",
+      "colour": ["black rabicano", "chestnut"]
+    },
+    "similarProducts": [],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f7625c38eabb98458273959"
+    },
+    "buyerList": [],
+    "category": "horses",
+    "description": "Known for their mastery of racing and jumping, their gait is powerful, exhibiting agility and speed. The withers are high, the back short, the body lean and the chest deep. Thoroughbred horses are racehorses and will carry out maximum exertion for long periods, if the rider requests it. Our line of Thoroughbreds is the finest of any catalogue, auction house or equestrian concern.",
+    "imgs": [
+      "/img/thoroughbred1.png",
+      "/img/thoroughbred2.jpg",
+      "/img/thoroughbred3.jpg"
+    ],
+    "name": "Thoroughbred",
+    "price": 100,
+    "properties": {
+      "type_": "race horse",
+      "colour": ["blood bay", "brindle"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f761ad98eabb98458273955"
+      },
+      {
+        "$oid": "5f7612338eabb9845827394b"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f7626638eabb9845827395a"
+    },
+    "buyerList": [],
+    "category": "horses",
+    "description": "The Turkoman is our top horse for racing or war. An Oriental horse breed, it is a bold horse known for its slender body and high endurance. The small hooves are suitable for traveling on hard and rocky ground. That, alongside their high speed, makes for a great battle horse. A hearty, healthy breed unrivaled in this line, this is one of the most sought after horses we sell.",
+    "imgs": ["/img/turkoman1.png", "/img/turkoman2.jpg", "/img/turkoman3.jpg"],
+    "name": "Turkoman",
+    "price": 250,
+    "properties": {
+      "type_": "multi-class",
+      "colour": ["dark bay", "silver"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f7618538eabb98458273953"
+      },
+      {
+        "$oid": "5f7619548eabb98458273954"
+      }
+    ],
+    "wishlistCounter": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f8c79c4e2dd1d03a4a56cff"
+    },
+    "buyerList": [],
+    "category": "horses",
+    "description": "Incredibly versatile, the American Paint breed is built for hard work. They are easy to keep, heavy but not too tall, and have solid, strong legs. With high stamina, the American Paint is the perfect companion for menial work tasks. Their distinctive coat makes them a handsome breed and many a rancher has drafted a letter extolling the virtues of this fine work horse.",
+    "imgs": [
+      "/img/americanpaint1.png",
+      "/img/americanpaint2.jpg",
+      "/img/americanpaint3.jpg"
+    ],
+    "name": "American Paint",
+    "price": "130",
+    "properties": {
+      "type_": "work horse",
+      "colour": ["brown", "black"]
+    },
+    "similarProducts": [
+      {
+        "$oid": "5f7614218eabb9845827394d"
+      },
+      {
+        "$oid": "5f7616c38eabb98458273951"
+      }
+    ],
+    "wishlistCounter": 0
+  }
+]
